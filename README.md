@@ -7,6 +7,7 @@ Trigger the Program:
 
 Output:
 
+```
 Epoch: 1, loss: 0.57551, Train accuracy: 0.69573, Test accuracy: 0.75049
 Epoch: 2, loss: 0.28538, Train accuracy: 0.79327, Test accuracy: 0.75706
 Epoch: 3, loss: 0.10432, Train accuracy: 0.82890, Test accuracy: 0.77741
@@ -37,3 +38,4 @@ Epoch: 27, loss: 0.00023, Train accuracy: 0.97865, Test accuracy: 0.75246
 Epoch: 28, loss: 0.00078, Train accuracy: 0.97438, Test accuracy: 0.75312
 Epoch: 29, loss: 0.00096, Train accuracy: 0.97750, Test accuracy: 0.75640
 Epoch: 30, loss: 0.00006, Train accuracy: 0.97750, Test accuracy: 0.76231
+```
